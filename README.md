@@ -1,6 +1,4 @@
-### Toilette-Exclusive General Public License (TGPL)
-
----
+# Toilette-Exclusive General Public License (TGPL)
 
 **Version 1.1, [Date]**
 
